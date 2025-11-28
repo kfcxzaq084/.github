@@ -10,7 +10,7 @@
       }
     }
   },
-  "inbounds": [
+  "inbounds": [tail -f /var/log/syslog
     {
       "port": 1080,
       "listen": "103.234.236.224",
